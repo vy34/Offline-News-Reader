@@ -25,12 +25,6 @@
 - **Pull-to-Refresh (khi online):**  
   Kéo xuống để làm mới danh sách tin tức, chỉ hoạt động khi thiết bị có kết nối mạng.
 
-- **Lưu tin yêu thích (Favorites):**  
-  Người dùng có thể lưu các bài viết yêu thích để đọc lại sau.
-
-- **Chế độ Dark Mode tự động:**  
-  Giao diện tối sáng tùy theo cài đặt hệ thống.
-
 ---
 
 ## 🛠️ Công nghệ sử dụng
@@ -53,14 +47,10 @@ cd news-offline-app
 
 ### 2. Cài đặt phụ thuộc
 
-npm install
-# hoặc
-yarn install
+npm install hoặc yarn install
 
 ### 3. Chạy ứng dụng
-npm start
-# hoặc
-expo start
+npm start hoặc expo start
 
 ### 4. Mở ứng dụng
 Dùng Expo Go trên điện thoại quét QR code.
